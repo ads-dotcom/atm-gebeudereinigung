@@ -1175,29 +1175,6 @@ a {
     margin-bottom: 2rem;
   }
 }
-#custom-html-31 {
-  /* Type valid CSS here */
-}
-#custom-html-31 div {
-  max-width: 1170px;
-  width: 90%;
-  margin: auto;
-  padding: 10px 10px;
-  color: #777;
-  text-align: center;
-}
-#custom-html-31 .display-1 {
-  font-size: 32px;
-}
-#custom-html-31 p {
-  font-size: 16px;
-  color: #777;
-}
-@media screen and (max-width: 521px) {
-  #custom-html-31 div {
-    padding: 0px 0px;
-  }
-}
 .cid-sFzz5E692j {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1475,26 +1452,6 @@ a {
 }
 .cid-uEr3Rn4pFv a.btn > span {
   margin-left: 0.5rem;
-}
-#custom-html-3l {
-  /* Type valid CSS here */
-}
-#custom-html-3l div {
-  max-width: 1770px;
-  width: 95%;
-  margin: auto;
-  padding: 10px 10px;
-  color: #777;
-  text-align: center;
-}
-#custom-html-3l .display-1 {
-  font-size: 48px;
-  color: #000;
-  font-weight: 700;
-}
-#custom-html-3l p {
-  font-size: 16px;
-  color: #777;
 }
 .cid-uEqTp6GhAI {
   padding-top: 7rem;
